@@ -2,6 +2,11 @@
 Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
+### Edit by Gabriel Pasca
+https://www.fullstackpython.com/best-python-resources.html- Full stack python
+https://github.com/Tanu-N-Prabhu/Python - Great Python resource
+https://towardsdatascience.com/top-13-resources-to-learn-python-programming-46f3b0b74b91?source=rss-------1
+
 ### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
@@ -47,6 +52,7 @@ completing the problems.
 
 ### Community
 
+* 
 * [_CodeTriage_](https://www.codetriage.com/) Help out your favorite open source projects and become a better 
 developer while doing it. Pick your favorite repos to receive a different open issue in your inbox every day. Fix 
 the issue and everybody wins. 43,662 developers are working on 4,493 open source repos using CodeTriage.
